@@ -1,7 +1,7 @@
 ## Olá, me chamo Matheus Geneze e sou programador Back-End!
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathGeneze&show_icons=true&theme=dracula&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathGeneze&show_icons=true&theme=solarized-dark&)
 
  <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/universe_math/)
