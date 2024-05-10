@@ -1,4 +1,6 @@
-## Hello, World!! Me chamo Matheus Geneze e sou programador Back-End!
+<div>
+<h3 align="left">Olá! Me chamo Matheus, sejam bem vindos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"></h3>
+</div> 
 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathGeneze&show_icons=true&theme=solarized-dark&)
