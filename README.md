@@ -1,5 +1,5 @@
 <div>
-<h2 align="left">Olá! Me chamo Matheus, sejam bem vindos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"></h2>
+<h2 align="left">Olá! Me chamo Matheus, sejam bem vindos.
 </div> 
 
 <!-- GithubStats -->
