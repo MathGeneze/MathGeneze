@@ -10,7 +10,7 @@
 
 <!-- Tecnologias -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<hr />
 <h3 align="center">• Tecnologias mais usadas:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,14 +38,12 @@
 
  <!-- Contatos -->
 <div>
-  <p align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <hr />
  <h3 align="center">Contatos:</h3>
 <p align="center">
   <a href="https://instagram.com/universe_math" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.geneze@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-geneze-7891a660/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  </p>
  </p>
 </div>
 
