@@ -6,9 +6,9 @@
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<h3 align="center">• Tecnologias mais usadas:</h3>
+<h3 align="left">• Tecnologias mais usadas:</h3>
   <p>
-      <table align="center">
+      <table>
           <tr>
               <td align="center" width="140">
                   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
@@ -37,10 +37,10 @@
 
            
 <!------------------------ Estou aprendendo ------------------------------->
-<h3 align="center">• Estou aprendendo:</h3>
+<h3 align="left">• Estou aprendendo:</h3>
 <p align="center">
   <p>
-      <table align="center">
+      <table>
           <tr>
               <td align="center" width="140">
                   <img src="https://skillicons.dev/icons?i=mysql" width="53" height="53" alt="MySQL"/>
@@ -61,10 +61,10 @@
 
 
   <!------------------------------ Ferramentas -------------------------------->
-<h3 align="center">• IDE's usadas:</h3>
+<h3 align="left">• IDE's usadas:</h3>
 <p align="center">
   <p>
-      <table align="center">
+      <table>
           <tr>
               <td align="center" width="140">
                   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="51" height="51" alt="PyCharm"/>
