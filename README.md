@@ -5,7 +5,7 @@
 
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<hr />
 <h3 align="left">• Tecnologias mais usadas:</h3>
   <p>
       <table>
@@ -82,7 +82,7 @@
 
  <!--------------------------------- Contatos -------------------------------------->
 <div>
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <hr />
  <h3 align="center">Contatos:</h3>
 <p align="center">
   <a href="https://instagram.com/universe_math" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
