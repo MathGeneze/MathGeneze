@@ -3,7 +3,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo(a)!+Me+chamo+Matheus.Tudo+bem+com+você?)](https://git.io/typing-svg)-->
 
 <h1>
-  Bem vindo(a), me chamo Matheus! Tudo bem com você?
+  Muito prazer, me chamo Matheus! Como vai?
 </h1>
 
   Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python para me tornar um futuro analista de dados!
