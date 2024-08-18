@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
 
+
 <!----------------- Título de Apresentação ----------------------------->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo(a)!+Me+chamo+Matheus.Tudo+bem+com+você?)](https://git.io/typing-svg)-->
 
@@ -8,8 +9,10 @@
 
   Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python para me tornar um futuro analista de dados!
 
->"O homem nasce mal, a sociedade o corrompe."
+>"Só conhecemos o mundo através da janela da nossa mente."
 >
+
+
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
