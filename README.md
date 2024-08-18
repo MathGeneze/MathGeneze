@@ -1,13 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
 
 <!----------------- Título de Apresentação ----------------------------->
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo(a)!+Me+chamo+Matheus.Tudo+bem+com+você?)](https://git.io/typing-svg)-->
 
-<h1>
-  Muito prazer, me chamo Matheus! Como vai?
-</h1>
+
+<h1> Muito prazer, me chamo Matheus! Como vai? </h1>
 
   Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python para me tornar um futuro analista de dados!
 
+>"O homem nasce mal, a sociedade o corrompe."
+>
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
@@ -95,3 +97,5 @@
   <a href="https://www.linkedin.com/in/matheus-geneze-7891a660/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </p>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
