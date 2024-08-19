@@ -1,12 +1,12 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/3db37f1d-345c-400f-b22d-80dbc92e78ae"/>
 <br>
+<br>
 
 
 <!----------------- Título de Apresentação ----------------------------->
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=76d53d&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus;Tenho+21+anos;Bem+Vindo!)](https://git.io/typing-svg)--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=76d53d&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus;Tenho+21+anos;Bem+Vindo!)](https://git.io/typing-svg)
 
-
-<h1> Muito prazer, me chamo Matheus! Como vai? </h1>
+<hr />
 
   Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python para me tornar um futuro analista de dados!
 
