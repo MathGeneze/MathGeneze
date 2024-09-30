@@ -10,7 +10,7 @@
 <br>
 
 
-  Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python para me tornar um futuro Engenheiro de Software!
+  Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python e suas Bibliotecas para me tornar um futuro Ciêntista de Dados!
 <br>
 
 >"Só conhecemos o mundo através da janela da nossa mente."
