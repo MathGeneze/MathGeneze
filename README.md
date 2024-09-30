@@ -34,16 +34,15 @@
                   <br>HTML5
               </td>
               <td align="center" width="100">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-                  <br>CSS3
-              </td>
-              <td align="center" width="100">
                   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github"/>
                   <br>GitHub
               </td>
               <td align="center" width="100">
                   <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="Markdown"/>
                   <br>Markdown
+              <td align="center" width="100">
+                  <img src="https://img.icons8.com/?size=100&id=HYcGuVv64Nng&format=png&color=000000" width="50" height="50" alt="Hardware"/>
+                  <br>Hardware
               </td>
           </tr>
       </table>
@@ -64,10 +63,6 @@
               <td align="center" width="100">
                   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/>
                   <br>Excel
-              </td>
-              <td align="center" width="100">
-                  <img src="https://img.icons8.com/?size=100&id=HYcGuVv64Nng&format=png&color=000000" width="50" height="50" alt="Hardware"/>
-                  <br>Hardware
               </td>
           </tr>
       </table>
