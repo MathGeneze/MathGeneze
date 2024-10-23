@@ -57,8 +57,8 @@
       <table>
           <tr>
               <td align="center" width="100">
-                  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-                  <br>MySQL
+                  <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="50" height="50" alt="MySQL"/>
+                  <br>SQL Server
               </td>
               <td align="center" width="100">
                   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/>
@@ -100,4 +100,6 @@
   <a href="https://www.linkedin.com/in/matheus-geneze/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </p>
 </div>
+
+
 
