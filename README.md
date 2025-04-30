@@ -57,10 +57,10 @@
       <table>
           <tr>
               <td align="center" width="100">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="50" alt="Azure"/>
                     <br>Azure
               <td align="center" width="100">
-                  <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="50" height="50" alt="MySQL"/>
+                  <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="55" height="50" alt="MySQL"/>
                   <br>SQL Server
               </td>
               <td align="center" width="100">
