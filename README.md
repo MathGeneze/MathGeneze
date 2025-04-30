@@ -57,6 +57,9 @@
       <table>
           <tr>
               <td align="center" width="100">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
+                    <br>Azure
+              <td align="center" width="100">
                   <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="50" height="50" alt="MySQL"/>
                   <br>SQL Server
               </td>
@@ -67,8 +70,8 @@
           </tr>
       </table>
   </p>
-</p>         
-
+</p>           
+          
 
   <!------------------------------ Ferramentas -------------------------------->
 <h3 align="left">• IDE's usadas:</h3>
@@ -95,9 +98,9 @@
  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
  <h3 align="center">Contatos:</h3>
 <p align="center">
-  <a href="https://instagram.com/universe_math" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-geneze/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus.geneze@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-geneze/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://instagram.com/universe_math" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </p>
 </div>
 
