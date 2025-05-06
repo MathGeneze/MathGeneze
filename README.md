@@ -5,7 +5,7 @@
 
 
 <!----------------- Título de Apresentação ----------------------------->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=FFB138&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus;Tenho+21+anos;Bem+Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=FFB138&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus;Tenho+22+anos;Bem+Vindo!)](https://git.io/typing-svg)
 <br>
 <br>
 
