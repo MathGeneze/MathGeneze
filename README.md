@@ -5,24 +5,29 @@
 
 
 <!----------------- Título de Apresentação ----------------------------->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=FFB138&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus;Tenho+22+anos;Bem+Vindo!)](https://git.io/typing-svg)
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=FFB138&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus+!;Tenho+22+anos!;Bem+Vindo!)](https://git.io/typing-svg)
+
+&nbsp;
+
+<!----------------- Aprensentação ----------------------------->
+``` 
+👋 Olá! Sou um Desenvolvedor Back-end em formação, explorando o mundo dos Dados e IA.
+
+🎯 Objetivo: Me tornar Cientista de Dados.
+
+🛠️ Tech Stack:  
+    - Python | Machine Learning | Data Science | Automação  
+    - SQL Server | Excel | Google Sheets  
+    - Azure (Cloud)  
+    - IA: ChatGPT | GitHub Copilot
+
+🤝 Aberto a colaborações e novos projetos!
 
 
-  Estudante de Engenharia de Software com foco em Análise de Dados. Tenho domínio dos fundamentos de Python e SQL utilizando o SQL Server para pesquisas e criação de Banco de Dados.
-
-Possuo conhecimento básico em computação em nuvem com Microsoft Azure, adquirido em bootcamp voltado para inteligência artificial e dados na nuvem. Também utilizo Excel como ferramenta complementar para análise e organização de informações.
-
-Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e bibliotecas Python voltadas para dados, como Pandas e Plotly.
-<br>
-
->"Só conhecemos o mundo através da janela da nossa mente."
-
-
+"Só conhecemos o mundo através da janela da nossa mente."
+```
 
 <!--------------------- Tecnologias ----------------------------->
-<br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <h3 align="left">• Tecnologias mais usadas:</h3>
@@ -44,9 +49,6 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
               <td align="center" width="100">
                   <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="Markdown"/>
                   <br>Markdown
-              <td align="center" width="100">
-                  <img src="https://img.icons8.com/?size=100&id=HYcGuVv64Nng&format=png&color=000000" width="50" height="50" alt="Hardware"/>
-                  <br>Hardware
               </td>
           </tr>
       </table>
