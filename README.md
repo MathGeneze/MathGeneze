@@ -12,8 +12,6 @@
 <!----------------- Aprensentação ----------------------------->
 <br>
 
-
-  Sou estudante de Engenharia de Software com paixão pelo desenvolvimento Back-End. Comecei com o objetivo de me tornar Full-Stack, porém, decidi mudar o foco após pesquisar mais sobre. Atualmente, estou aprimorando meus conhecimentos na linguagem Python e suas Bibliotecas para me tornar um futuro Ciêntista de Dados!
   Estudante de Engenharia de Software com foco em Análise de Dados. Tenho domínio dos fundamentos de Python e SQL utilizando o SQL Server para pesquisas e criação de Banco de Dados.
 
 Possuo conhecimento básico em computação em nuvem com Microsoft Azure, adquirido em bootcamp voltado para inteligência artificial e dados na nuvem. Também utilizo Excel como ferramenta complementar para análise e organização de informações.
