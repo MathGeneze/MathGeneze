@@ -23,84 +23,69 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
 
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+</p>
 <h3 align="left">• Tecnologias mais usadas:</h3>
-  <p>
-      <table>
-          <tr>
-              <td align="center" width="90">
-                  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-                  <br>Python
-              </td>
-              <td align="center" width="90">
-                  <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="50" height="50" alt="Pandas"/>
-                  <br>Pandas
-              </td>
-            <td align="center" width="95">
-                  <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="55" height="50" alt="MySQL"/>
-                  <br>SQL Server
-              </td>
-            <td align="center" width="95">
-                  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/>
-                  <br>Excel
-              </td>
-            <td align="center" width="100">
-                  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github"/>
-                  <br>GitHub
-          </tr>
-      </table>
-  </p>
-</p>         
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="50" height="50" alt="Pandas"/><br>Pandas
+      </td>
+      <td align="center" width="95">
+        <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="55" height="50" alt="SQL Server"/><br>SQL Server
+      </td>
+      <td align="center" width="95">
+        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/><br>Excel
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/><br>GitHub
+      </td>
+    </tr>
+  </table>
+</div>
 
-           
 <!------------------------ Estou aprendendo ------------------------------->
 <h3 align="left">• Estou aprendendo:</h3>
-<p align="center">
-  <p>
-      <table>
-          <tr>
-              <td align="center" width="95">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="50" alt="Azure"/>
-                    <br>Azure
-              <td align="center" width="95">
-                  <img src="https://img.icons8.com/color/48/streamlit.png" width="45" height="45" alt="Streamlit"/>
-                  <br>Streamlit
-              <td align="center" width="95">
-                  <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="45" height="45" alt="Scikit-Learn"/>
-                  <br>Scikit-Learn
-            <td align="center" width="100">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" alt="Plotly"/>
-                  <br>Plotly
-              </td>
-          </tr>
-          </tr>
-      </table>
-  </p>
-</p>           
-          
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="95">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="50" alt="Azure"/><br>Azure
+      </td>
+      <td align="center" width="95">
+        <img src="https://img.icons8.com/color/48/streamlit.png" width="45" height="45" alt="Streamlit"/><br>Streamlit
+      </td>
+      <td align="center" width="95">
+        <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="45" height="45" alt="Scikit-Learn"/><br>Scikit-Learn
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" alt="Plotly"/><br>Plotly
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!------------------------------ Ferramentas -------------------------------->
+<!------------------------------ Ferramentas -------------------------------->
 <h3 align="left">• IDE's usadas:</h3>
-<p align="center">
-  <p>
-      <table>
-          <tr>
-              <td align="center" width="100">
-                  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/>
-                  <br>PyCharm
-              </td>
-              <td align="center" width="100">
-                  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
-                  <br>VSCode
-              </td>
-            <td align="center" width="100">
-                  <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="50" height="50" alt="Jypiter"/>
-                  <br>Jupyter
-              </td>
-          </tr>
-      </table>
-  </p>
-</p>      
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/><br>PyCharm
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/><br>VSCode
+      </td>
+      <td align="center" width="100">
+        <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="50" height="50" alt="Jupyter"/><br>Jupyter
+      </td>
+    </tr>
+  </table>
+</div>
 
 
  <!--------------------------------- Contatos -------------------------------------->
@@ -114,5 +99,8 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
  </p>
 </div>
 
+<div align="center">
+  <img src="https://github.com/germanocastanho/germanocastanho/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
+</div>
 
 
