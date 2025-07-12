@@ -99,8 +99,5 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
  </p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/germanocastanho/germanocastanho/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
-</div>
 
 
