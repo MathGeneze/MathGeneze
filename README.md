@@ -83,6 +83,9 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
       <td align="center" width="100">
         <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="50" height="50" alt="Jupyter"/><br>Jupyter
       </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/color/48/google-colab.png" width="50" height="50" alt="Colab"/><br>Colab
+      </td>
     </tr>
   </table>
 </div>
@@ -98,6 +101,5 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
   <a href="https://instagram.com/universe_math" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </p>
 </div>
-
 
 
