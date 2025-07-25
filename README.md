@@ -1,26 +1,45 @@
+# Matheus Geneze
+
+**`Desenvolvedor Back-End (Python)`**
 
 <br>
-<br>
-<br>
 
+<!-- LinkedIn Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-geneze/" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Conecte-se comingo no LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0078D4" 
+         style="height: 27px;" /></a>
 
-<!----------------- Título de Apresentação ----------------------------->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=50&duration=4100&pause=350&color=36BCF7FF&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Meu+nome+é+Matheus!;Tenho+22+anos!;Bem+Vindo!)](https://git.io/typing-svg)
+  <!-- Gmail Badge -->
+  <a href="mailto:matheus.geneze@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Me envie um Email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0078D4" 
+         style="height: 27px;" /></a>
+
+  <!-- GitHub Repositories Badge -->
+  <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
+    <img alt="Repositories" title="Veja meus repositórios no GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Meus Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=0078D4" 
+         style="height: 27px;" /></a>
+         
+ <!-- Starred Repositories Badge -->
+  <a href="https://github.com/MathGeneze?tab=stars" style="text-decoration: none;">
+    <img alt="Pinned Repositories" title="Repositórios que eu salvei" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositórios Favoritos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=0078D4" 
+         style="height: 27px;" /></a> 
+</p>
 
 &nbsp;
 
-<!----------------- Aprensentação ----------------------------->
+<!-- Aprensentação -->
+Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e aprender mais sobre mim mesmo, me redescobrindo a cada dia. Atualmente escolhi a Área de Dados como foco no meu aprendizado e no meu futuro profissional, me especializando em Python e suas bibliotecas como Pandas, Scikit-Learn e Streamlit para Tratamento de dados e Visualização de Gráficos. Sempre buscando aprender de verdade através de disciplina e propósito.
+
+>_"Eu sou a solução de tudo o que molda meu ser"._
+
 <br>
 
-  Estudante de Engenharia de Software com foco em Análise de Dados. Tenho domínio dos fundamentos de Python e SQL utilizando o SQL Server para pesquisas e criação de Banco de Dados.
-
-Possuo conhecimento básico em computação em nuvem com Microsoft Azure, adquirido em bootcamp voltado para inteligência artificial e dados na nuvem. Também utilizo Excel como ferramenta complementar para análise e organização de informações.
-
-Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e bibliotecas Python voltadas para dados, como Pandas e Plotly.
-<br>
-
->"Só conhecemos o mundo através da janela da nossa mente."
-
+---
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
@@ -90,16 +109,23 @@ Atualmente, aprofundo meus conhecimentos em análise de dados, visualização e 
   </table>
 </div>
 
+<br>
 
- <!--------------------------------- Contatos -------------------------------------->
-<div>
- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
- <h3 align="center">Contatos:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-geneze/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheus.geneze@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/universe_math" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </p>
+---
+
+<br>
+
+<!-- Typing SVG -->
+<div align="center"> 
+  <a href="https://git.io/typing-svg"><img 
+     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=428&lines=%22O+mundo+%C3%A9+o+reflexo+da+nossa+mente%22.;%22Sendo+1%25+melhor+todos+os+dias%22" 
+     alt="Typing SVG" /></a>
 </div>
 
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
