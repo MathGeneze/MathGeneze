@@ -48,20 +48,20 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 <div align="left">
   <table>
     <tr>
-      <td align="center" width="90">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>Python
+      <td align="center" width="85">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
       </td>
-      <td align="center" width="90">
-        <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="50" height="50" alt="Pandas"/><br>Pandas
+      <td align="center" width="85">
+        <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="40" height="40" alt="Pandas"/><br>Pandas
       </td>
-      <td align="center" width="95">
-        <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="55" height="50" alt="SQL Server"/><br>SQL Server
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="40" height="40" alt="SQL Server"/><br>SQL Server
       </td>
-      <td align="center" width="95">
-        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/><br>Excel
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="40" height="40" alt="Excel"/><br>Excel
       </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/><br>GitHub
+      <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br>GitHub
       </td>
     </tr>
   </table>
@@ -72,17 +72,17 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 <div align="left">
   <table>
     <tr>
-      <td align="center" width="95">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="50" alt="Azure"/><br>Azure
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br>Azure
       </td>
-      <td align="center" width="95">
-        <img src="https://img.icons8.com/color/48/streamlit.png" width="45" height="45" alt="Streamlit"/><br>Streamlit
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"/><br>Streamlit
       </td>
-      <td align="center" width="95">
-        <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="45" height="45" alt="Scikit-Learn"/><br>Scikit-Learn
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/><br>Scikit-Learn
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" alt="Plotly"/><br>Plotly
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/><br>Plotly
       </td>
     </tr>
   </table>
@@ -93,17 +93,17 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 <div align="left">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/><br>PyCharm
+      <td align="center" width="85">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br>PyCharm
       </td>
-      <td align="center" width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/><br>VSCode
+      <td align="center" width="85">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/><br>VSCode
       </td>
-      <td align="center" width="100">
-        <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="50" height="50" alt="Jupyter"/><br>Jupyter
+      <td align="center" width="85">
+        <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="40" height="40" alt="Jupyter"/><br>Jupyter
       </td>
-      <td align="center" width="100">
-        <img src="https://img.icons8.com/color/48/google-colab.png" width="50" height="50" alt="Colab"/><br>Colab
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/google-colab.png" width="40" height="40" alt="Colab"/><br>Colab
       </td>
     </tr>
   </table>
