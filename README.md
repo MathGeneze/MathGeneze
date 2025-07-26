@@ -37,8 +37,6 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 
 >_"Eu sou a solução de tudo o que molda meu ser"._
 
-<br>
-
 ---
 <!--------------------- Tecnologias ----------------------------->
 <p align="left">
