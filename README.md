@@ -35,7 +35,7 @@
 <!-- Aprensentação -->
 Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e aprender mais sobre mim mesmo, me redescobrindo a cada dia. Atualmente escolhi a Área de Dados como foco no meu aprendizado e no meu futuro profissional, me especializando em Python e suas bibliotecas como Pandas, Scikit-Learn e Streamlit para Tratamento de dados e Visualização de Gráficos. Sempre buscando aprender de verdade através de disciplina e propósito.
 
->_"Eu sou a solução de tudo o que molda meu ser"._
+>_" Eu sou a solução de tudo o que molda meu ser. "_
 
 ---
 <!--------------------- Tecnologias ----------------------------->
