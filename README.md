@@ -14,19 +14,19 @@
   <!-- Gmail Badge -->
   <a href="mailto:matheus.geneze@gmail.com" style="text-decoration: none;">
     <img alt="Gmail" title="Me envie um Email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0078D4" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b50724" 
          style="height: 27px;" /></a>
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/MathGeneze?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="Veja meus repositórios no GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-Meus Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=0078D4" 
+         src="https://custom-icon-badges.demolab.com/badge/-Meus Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=83088a" 
          style="height: 27px;" /></a>
          
  <!-- Starred Repositories Badge -->
   <a href="https://github.com/MathGeneze?tab=stars" style="text-decoration: none;">
     <img alt="Pinned Repositories" title="Repositórios que eu salvei" 
-         src="https://custom-icon-badges.demolab.com/badge/-Repositórios Favoritos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=0078D4" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositórios Favoritos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=a87f0c" 
          style="height: 27px;" /></a> 
 </p>
 
