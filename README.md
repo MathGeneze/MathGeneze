@@ -18,7 +18,7 @@
          style="height: 27px;" /></a>
 
   <!-- GitHub Repositories Badge -->
-  <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
+  <a href="https://github.com/MathGeneze?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="Veja meus repositórios no GitHub" 
          src="https://custom-icon-badges.demolab.com/badge/-Meus Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=0078D4" 
          style="height: 27px;" /></a>
