@@ -52,6 +52,9 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
       <td align="center" width="85">
         <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="40" height="40" alt="Pandas"/><br>Pandas
       </td>
+       <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"/><br>Streamlit
+      </td>
       <td align="center" width="85">
         <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="40" height="40" alt="SQL Server"/><br>SQL Server
       </td>
@@ -72,9 +75,6 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
     <tr>
       <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br>Azure
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"/><br>Streamlit
       </td>
       <td align="center" width="85">
         <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/><br>Scikit-Learn
