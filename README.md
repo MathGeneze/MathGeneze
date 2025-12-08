@@ -33,7 +33,7 @@
 &nbsp;
 
 <!-- Aprensentação -->
-Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e aprender mais sobre mim mesmo, me redescobrindo a cada dia. Atualmente escolhi a Área de Dados como foco no meu aprendizado e no meu futuro profissional, me especializando em Python e suas bibliotecas como Pandas, Scikit-Learn e Streamlit para Tratamento de dados e Visualização de Gráficos. Sempre buscando aprender de verdade através de disciplina e propósito.
+Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e aprender mais sobre mim mesmo, me redescobrindo a cada dia. Atualmente escolhi a Área de Dados como foco em Análise de Dados, me especializando em Python e suas bibliotecas como Pandas, Plotly e Streamlit para Tratamento de dados e Visualização de Gráficos. Sempre buscando verdadeiramente aprender através de disciplina e propósito.
 
 >_" Eu sou a solução de tudo o que molda meu ser. "_
 
@@ -51,6 +51,12 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
       </td>
       <td align="center" width="85">
         <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="40" height="40" alt="Pandas"/><br>Pandas
+      </td>
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/numpy.png" width="40" height="40" alt="NumPy"/><br>NumPy
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/><br>Plotly
       </td>
        <td align="center" width="85">
         <img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"/><br>Streamlit
@@ -80,7 +86,10 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
         <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/><br>Scikit-Learn
       </td>
       <td align="center" width="85">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/><br>Plotly
+        <img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
+      </td>
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/><br>Requests
       </td>
     </tr>
   </table>
@@ -127,3 +136,4 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
+
