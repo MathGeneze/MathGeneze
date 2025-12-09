@@ -1,6 +1,6 @@
 # Matheus Geneze
 
-**`Desenvolvedor Back-End (Python)`**
+**`Desenvolvedor Back-End (Python) / Analista de Dados`**
 
 <br>
 
