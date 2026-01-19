@@ -62,6 +62,12 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
         <img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"/><br>Streamlit
       </td>
       <td align="center" width="85">
+        <img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
+      </td>
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/><br>Requests
+      </td>
+      <td align="center" width="85">
         <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="40" height="40" alt="SQL Server"/><br>SQL Server
       </td>
       <td align="center" width="85">
@@ -84,12 +90,6 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
       </td>
       <td align="center" width="85">
         <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/><br>Scikit-Learn
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/><br>Requests
       </td>
     </tr>
   </table>
@@ -118,11 +118,22 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 
 <br>
 
+<!---------------------  Projetos em Destaque  ------------------------------>
+---
+<sum🚀 Projetos em Destaque</summary>
+
+<br>
+
+| Projeto                                           | Descrição                                                                         | Link                                                                 |
+|---------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Web Scraping + Dashboard com Python**           | Script de Extração e Limpeza dos dados dos produtos mais vendidos da Mercado Livre + Dashboard com Filtros, Métricas e Gráficos com Streamlit  | [🔗 Acessar Projeto](https://github.com/MathGeneze/Web-Scraping-Mercado-Livre) |
+| **Data Center Explorer**                          | Aplicação Web onde o usuário pode inserir um arquivo CSV, analisar os dados e ter insights rápidos.                                            | [🔗 Acessar Projeto](https://github.com/MathGeneze/Data-Explorer-Central) |
+| **Intensivão de Python**                          | 4 Projetos de Python onde foram aborados temas como: Automação de Tarefas, Análise de Dados, Machine Learning e Desenvolvimento Web.           | [🔗 Acessar Projeto](https://github.com/MathGeneze/Intensivao-Python) |
 ---
 
 <br>
 
-<!-- Typing SVG -->
+<!------------------- Pac-man --------------------------->
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img 
      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=428&lines=%22O+mundo+%C3%A9+o+reflexo+da+nossa+mente%22.;%22Sendo+1%25+melhor+todos+os+dias%22" 
