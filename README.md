@@ -120,7 +120,7 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 
 <!---------------------  Projetos em Destaque  ------------------------------>
 ---
-<sum🚀 Projetos em Destaque</summary>
+<h3>🚀 Projetos em Destaque</h3>
 
 <br>
 
