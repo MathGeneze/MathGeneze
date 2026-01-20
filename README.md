@@ -32,89 +32,18 @@
 
 &nbsp;
 
-<!-- Aprensentação -->
-Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e aprender mais sobre mim mesmo, me redescobrindo a cada dia. Atualmente escolhi a Área de Dados como foco em Análise de Dados, me especializando em Python e suas bibliotecas como Pandas, Plotly e Streamlit para Tratamento de dados e Visualização de Gráficos. Sempre buscando verdadeiramente aprender através de disciplina e propósito.
+<!--------------------- Aprensentação ------------------------->
+Sou Analista de Dados, com foco em transformar dados em insights por meio de análise, visualização e automação. Trabalho com Python, utilizando Pandas, NumPy e Plotly, e desenvolvo aplicações interativas com Streamlit.
 
->_" Eu sou a solução de tudo o que molda meu ser. "_
+Tenho experiência com bancos de dados (SQL Server e SQLite), além de práticas em limpeza e organização de dados com Excel. Também venho aprimorando habilidades como pensamento crítico, storytelling com dados e comunicação de resultados, aplicando esses conceitos em projetos práticos.
+
+<br>
 
 ---
-<!--------------------- Tecnologias ----------------------------->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-</p>
-<h3 align="left">• Tecnologias mais usadas:</h3>
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="85">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="40" height="40" alt="Pandas"/><br>Pandas
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/numpy.png" width="40" height="40" alt="NumPy"/><br>NumPy
-      </td>
-      <td align="center" width="85">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/><br>Plotly
-      </td>
-       <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"/><br>Streamlit
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="40" height="40" alt="Selenium"/><br>Selenium
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/><br>Requests
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="40" height="40" alt="SQL Server"/><br>SQL Server
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="40" height="40" alt="Excel"/><br>Excel
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br>GitHub
-      </td>
-    </tr>
-  </table>
-</div>
+### 💬 Contatos:
+* 📫 Você pode me contatar pelo email: **matheus.geneze@gmail.com**.
 
-<!------------------------ Estou aprendendo ------------------------------->
-<h3 align="left">• Estou aprendendo:</h3>
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="85">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br>Azure
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/><br>Scikit-Learn
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!------------------------------ Ferramentas -------------------------------->
-<h3 align="left">• IDE's usadas:</h3>
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="85">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br>PyCharm
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/><br>VSCode
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="40" height="40" alt="Jupyter"/><br>Jupyter
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/google-colab.png" width="40" height="40" alt="Colab"/><br>Colab
-      </td>
-    </tr>
-  </table>
-</div>
+* 🔗 Você também pode se conectar comigo no [LinkedIn](https://www.linkedin.com/in/matheus-geneze/).
 
 <br>
 
@@ -129,9 +58,117 @@ Sou uma pessoa dedicada e completamente curiosa quando o assunto é tecnologia e
 | **Web Scraping + Dashboard com Python**           | Script de Extração e Limpeza dos dados dos produtos mais vendidos da Mercado Livre + Dashboard com Filtros, Métricas e Gráficos com Streamlit  | [🔗 Acessar Projeto](https://github.com/MathGeneze/Web-Scraping-Mercado-Livre) |
 | **Data Center Explorer**                          | Aplicação Web onde o usuário pode inserir um arquivo CSV, analisar os dados e ter insights rápidos.                                            | [🔗 Acessar Projeto](https://github.com/MathGeneze/Data-Explorer-Central) |
 | **Intensivão de Python**                          | 4 Projetos de Python onde foram aborados temas como: Automação de Tarefas, Análise de Dados, Machine Learning e Desenvolvimento Web.           | [🔗 Acessar Projeto](https://github.com/MathGeneze/Intensivao-Python) |
+
 ---
 
 <br>
+
+<!--------------------- Tecnologias ----------------------------->
+<h2 align="left">🖥️ Tecnologias mais usadas</h2>
+<h3 align="left">• Linguagens e Bibliotecas:</h3>
+<div align="left">
+  <table>
+    <tr>
+    <th>Python</th>
+    <th>Pandas</th>
+    <th>NumPy</th>
+    <th>Plotly</th>
+    <th>Scikit-Learn</th>
+    <th>Streamlit</th>
+    <th>Selenium</th>
+    <th>Requests</th>
+    </tr>
+    <tr>
+      <td align="center" width="85">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="50" height="50" alt="Pandas"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/numpy.png" width="50" height="50" alt="NumPy"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="45" height="45" alt="Plotly"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/>
+      </td>
+       <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/streamlit.png" width="50" height="50" alt="Streamlit"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="45" height="45" alt="Selenium"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!------------------------ Banco de Dados e Cloud ------------------------------->
+<h3 align="left">• Banco de Dados e Cloud:</h3>
+<div align="left">
+  <table>
+    <tr>
+    <th>SQL Server</th>
+    <th>SQLite</th> 
+    <th>Azure</th>
+    </tr>
+    <tr>
+      <td align="center" width="85">
+        <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="50" height="50" alt="SQL Server"/>
+      </td>
+      <td align="center" width="85">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQL Server"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!------------------------------ Ferramentas -------------------------------->
+<h3 align="left">• Ferramentas:</h3>
+<div align="left">
+  <table>
+    <tr>
+    <th>PyCharmr</th>
+    <th>VSCode</th> 
+    <th>Jupyter</th>
+    <th>Colab</th>
+    <th>Excel</th> 
+    <th>GitHub</th>
+    </tr>
+    <tr>
+      <td align="center" width="85">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="40" height="40" alt="Jupyter"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/color/48/google-colab.png" width="40" height="40" alt="Colab"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/>
+      </td>
+      <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<br>
+<br>
+
 
 <!------------------- Pac-man --------------------------->
 <div align="center"> 
