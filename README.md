@@ -33,9 +33,9 @@
 &nbsp;
 
 <!--------------------- Aprensentação ------------------------->
-Sou Analista de Dados, com foco em transformar dados em insights por meio de análise, visualização e automação. Trabalho com Python, utilizando Pandas, NumPy e Plotly, e desenvolvo aplicações interativas com Streamlit.
+Sou **Analista de Dados**, com foco em transformar dados em insights por meio de análise, visualização e automação. Atualmente tenho aprimorado meus conhecimentos com **Python**, utilizando **Pandas**, **NumPy** e **Plotly**, e desenvolvo aplicações interativas com **Streamlit**.
 
-Tenho experiência com bancos de dados (SQL Server e SQLite), além de práticas em limpeza e organização de dados com Excel. Também venho aprimorando habilidades como pensamento crítico, storytelling com dados e comunicação de resultados, aplicando esses conceitos em projetos práticos.
+Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de práticas em limpeza e organização de dados com **Excel**. Também venho aprimorando habilidades como pensamento crítico, storytelling com dados e comunicação de resultados, aplicando esses conceitos em projetos práticos.
 
 <br>
 
