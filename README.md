@@ -135,7 +135,7 @@ Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de prát
 <div align="left">
   <table>
     <tr>
-    <th>PyCharmr</th>
+    <th>PyCharm</th>
     <th>VSCode</th> 
     <th>Jupyter</th>
     <th>Colab</th>
