@@ -4,19 +4,6 @@
 
 <br>
 
-<!-- LinkedIn Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-geneze/" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Conecte-se comingo no LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0078D4" 
-         style="height: 27px;" /></a>
-
-  <!-- Gmail Badge -->
-  <a href="mailto:matheus.geneze@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail" title="Me envie um Email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b50724" 
-         style="height: 27px;" /></a>
-
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/MathGeneze?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="Veja meus repositórios no GitHub" 
@@ -42,8 +29,8 @@ Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de prát
 ---
 ### 💬 Contatos:
 * 📫 Você pode me contatar pelo email: **matheus.geneze@gmail.com**.
-
 * 🔗 Você também pode se conectar comigo no [LinkedIn](https://www.linkedin.com/in/matheus-geneze/).
+* 📊 Veja minhas análises de dados mais recentes no [Kaggle](https://www.kaggle.com/matheusgeneze/code).
 
 <br>
 
