@@ -65,45 +65,18 @@ Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de prát
 <br>
 
 <!--------------------- Tecnologias ----------------------------->
-<h2 align="left">🖥️ Tecnologias mais usadas</h2>
-<h3 align="left">• Linguagens e Bibliotecas:</h3>
+<h2 align="left">🖥️ Competências Técnicas</h2>
+
+<h3 align="left">• Linguagens:</h3>
 <div align="left">
   <table>
     <tr>
-    <th>Python</th>
-    <th>Pandas</th>
-    <th>NumPy</th>
-    <th>Plotly</th>
-    <th>Scikit-Learn</th>
-    <th>Streamlit</th>
-    <th>Selenium</th>
-    <th>Requests</th>
+      <th width="85">Python</th>
+      <th width="85">SQL</th>
     </tr>
     <tr>
-      <td align="center" width="85">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="50" height="50" alt="Pandas"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/numpy.png" width="50" height="50" alt="NumPy"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="45" height="45" alt="Plotly"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="40" height="40" alt="Scikit-Learn"/>
-      </td>
-       <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/streamlit.png" width="50" height="50" alt="Streamlit"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="45" height="45" alt="Selenium"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/>
-      </td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/></td>
+      <td align="center"><img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="50" height="50" alt="SQL"/></td>
     </tr>
   </table>
 </div>
@@ -113,55 +86,78 @@ Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de prát
 <div align="left">
   <table>
     <tr>
-    <th>SQL Server</th>
-    <th>SQLite</th> 
-    <th>Azure</th>
+      <th width="85">SQL Server</th>
+      <th width="85">SQLite</th>
+      <th width="85">Azure</th>
     </tr>
     <tr>
-      <td align="center" width="85">
-        <img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="50" height="50" alt="SQL Server"/>
-      </td>
-      <td align="center" width="85">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQL Server"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-      </td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/34e41990-55dc-48ca-a1eb-8bca91bb8ca0" width="50" height="50" alt="SQL Server"/></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/></td>
     </tr>
   </table>
 </div>
 
-<!------------------------------ Ferramentas -------------------------------->
+<!------------------------ Análise e Extração de Dados ------------------------------->
+<h3 align="left">• Análise e Extração de Dados:</h3>
+<div align="left">
+  <table>
+    <tr>
+      <th width="85">Pandas</th>
+      <th width="85">NumPy</th>
+      <th width="85">Scikit-Learn</th>
+      <th width="85">Jupyter</th>
+      <th width="85">Plotly</th>
+      <th width="85">Selenium</th>
+      <th width="85">Requests</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="45" height="45" alt="Pandas"/></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/numpy.png" width="45" height="45" alt="NumPy"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/e92894c4-4e06-4f82-a676-92e93b722c8b" width="45" height="45" alt="Scikit-Learn"/></td>
+      <td align="center"><img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="45" height="45" alt="Jupyter"/></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="45" height="45" alt="Plotly"/></td>
+      <td align="center"><img src="https://devicon-website.vercel.app/api/selenium/original.svg" width="45" height="45" alt="Selenium"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/40ffa70e-d974-457f-9d97-58e969844ca1" width="45" height="45" alt="Requests"/></td>
+    </tr>
+  </table>
+</div>
+
+
+<!------------------------ Visualização de Dados ------------------------------->
+<h3 align="left">• Visualização de Dados:</h3>
+<div align="left">
+  <table>
+    <tr>
+      <th width="85">Power BI</th>
+      <th width="85">Streamlit</th>
+      <th width="85">Excel</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI"/></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/streamlit.png" width="50" height="50" alt="Streamlit"/></td>
+      <td align="center"><img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/></td>
+    </tr>
+  </table>
+</div>
+
+<!------------------------ Ferramentas ------------------------------->
 <h3 align="left">• Ferramentas:</h3>
 <div align="left">
   <table>
     <tr>
-    <th>PyCharm</th>
-    <th>VSCode</th> 
-    <th>Jupyter</th>
-    <th>Colab</th>
-    <th>Excel</th> 
-    <th>GitHub</th>
+      <th width="85">PyCharm</th>
+      <th width="85">VSCode</th>
+      <th width="85">Colab</th>
+      <th width="85">Kaggle</th>
+      <th width="85">GitHub</th>
     </tr>
     <tr>
-      <td align="center" width="85">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="40" height="40" alt="Jupyter"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/color/48/google-colab.png" width="40" height="40" alt="Colab"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50" alt="Excel"/>
-      </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-      </td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/google-colab.png" width="50" height="50" alt="Google Colab"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/c88e8d9e-7c0b-4fe3-b777-769e94e645cc" width="50" height="50" alt="Kaggle"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/></td>
     </tr>
   </table>
 </div>
@@ -169,7 +165,6 @@ Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de prát
 <br>
 <br>
 <br>
-
 
 <!------------------- Pac-man --------------------------->
 <div align="center"> 
