@@ -31,6 +31,7 @@ Tenho experiência com bancos de dados **(SQL Server e SQLite)**, além de prát
 * 📫 Você pode me contatar pelo email: **matheus.geneze@gmail.com**.
 * 🔗 Você também pode se conectar comigo no **[LinkedIn](https://www.linkedin.com/in/matheus-geneze/)**.
 * 📊 Veja minhas análises de dados mais recentes no **[Kaggle](https://www.kaggle.com/matheusgeneze/code)**.
+* 📰 Para ler artigos que criei sobre meus projetos, acesso meu perfil no **[Medium](https://medium.com/@matheus.geneze)**.
 
 <br>
 
