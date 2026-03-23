@@ -3,7 +3,6 @@
 **`Desenvolvedor Back-End (Python) / Analista de Dados`**
 
 <br>
-
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/MathGeneze?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="Veja meus repositórios no GitHub" 
@@ -15,7 +14,6 @@
     <img alt="Pinned Repositories" title="Repositórios que eu salvei" 
          src="https://custom-icon-badges.demolab.com/badge/-Repositórios Favoritos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=a87f0c" 
          style="height: 27px;" /></a> 
-</p>
 
 &nbsp;
 
